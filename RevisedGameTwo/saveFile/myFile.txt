@@ -1,0 +1,67 @@
+tommy
+Berserker
+1
+143
+10
+19
+44
+28
+9
+4
+38
+0
+11
+51
+0
+0
+1
+1
+1
+0
+1
+1
+20
+7
+Bread
+Bread
+Chicken
+Chicken
+Sausage
+Sausage
+Sausage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Restores 2 mana points.
+Restores 2 mana points.
+Restores 3 health points.
+Restores 3 health points.
+Restores 3 health points.
+Restores 3 health points.
+Restores 3 health points.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

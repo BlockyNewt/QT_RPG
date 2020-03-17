@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>CharacterCreation</class>
+ <widget class="QDialog" name="CharacterCreation">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1280</width>
+    <height>720</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="berserkerB">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>40</y>
+     <width>191</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>PushButton</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="paladinB">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>180</y>
+     <width>191</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>PushButton</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="wizardB">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>320</y>
+     <width>191</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>PushButton</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="warlockB">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>460</y>
+     <width>191</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>PushButton</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="thiefB">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>600</y>
+     <width>191</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>PushButton</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="acceptB">
+   <property name="geometry">
+    <rect>
+     <x>960</x>
+     <y>600</y>
+     <width>191</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>PushButton</string>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="professionDescriptionTB">
+   <property name="geometry">
+    <rect>
+     <x>350</x>
+     <y>40</y>
+     <width>451</width>
+     <height>521</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="nameLE">
+   <property name="geometry">
+    <rect>
+     <x>430</x>
+     <y>620</y>
+     <width>371</width>
+     <height>41</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="nameLabel">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>620</y>
+     <width>71</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="professionPicLabel">
+   <property name="geometry">
+    <rect>
+     <x>900</x>
+     <y>0</y>
+     <width>300</width>
+     <height>600</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="backgroundPicLabel">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>560</y>
+     <width>1281</width>
+     <height>721</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
+  <zorder>backgroundPicLabel</zorder>
+  <zorder>berserkerB</zorder>
+  <zorder>paladinB</zorder>
+  <zorder>wizardB</zorder>
+  <zorder>warlockB</zorder>
+  <zorder>thiefB</zorder>
+  <zorder>acceptB</zorder>
+  <zorder>professionDescriptionTB</zorder>
+  <zorder>nameLE</zorder>
+  <zorder>nameLabel</zorder>
+  <zorder>professionPicLabel</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
